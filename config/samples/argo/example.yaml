@@ -33,4 +33,4 @@ metadata:
   name: my-user-password
 type: Opaque
 stringData:
-  password: 'Your-password-here1'
+  password: Your-password-here1
